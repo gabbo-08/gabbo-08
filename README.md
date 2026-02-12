@@ -1,15 +1,14 @@
 # 💫 About Me:  
-👋 Hi, I'm **Gabriele Cacace**!  
-Welcome to my GitHub profile! 🚀  
+👋 Hi, I'm Gabriele Cacace!
+Welcome to my GitHub profile! 🚀
 
-🌐 Check out my personal website: [gabbo.altervista.org](http://gabbo.altervista.org)  
-
-## 📖 About Me  
-I'm a **5th-year IT student** at **ITIS Galileo Ferraris**, driven by a passion for **computer science** and **programming**.  
-I’m always eager to learn, grow, and tackle new challenges. I love turning ideas into innovative solutions. 💻  
-
+🌐 Check out my little personal website for the 5th year exam: [gabbo.altervista.org](http://gabbo.altervista.org)##
+📖 Who I am
+I'm a computer science student who graduated from the Galileo Ferraris Technical Institute, driven by a passion for computer science and programming.
+I'm always eager to learn, grow, and take on new challenges. I love turning ideas into innovative solutions. 💻
+I'm currently studying computer engineering at the Federico II University in Naples.
 ## 🚀 Currently  
-- 🔭 **Working on:** Personal projects to enhance my portfolio and technical skills.  
+- 🔭 **last work:** Personal projects to enhance my portfolio and technical skills.  
 - 🌱 **Learning:**  
   - **JavaScript** & **TypeScript** to master web development.  
   - Diving deeper into **backend programming** and **databases**.  
